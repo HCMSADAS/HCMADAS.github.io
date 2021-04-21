@@ -2123,8 +2123,8 @@ input, select, textarea {
 			margin: 0;
 		}
 
-			#top .image img {
-				border-radius: 100%;
+		<#top .image img {
+				/*border-radius: 100%*/;
 			}
 
 		#top h1 {
